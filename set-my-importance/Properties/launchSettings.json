@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "set-my-importance": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
