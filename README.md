@@ -2,6 +2,10 @@
 
 自分自身のプロセスの優先度を変更する学習用プロジェクト。  
 
+## 実行方法
+
+そのまま実行すればOK!  
+
 ## 説明
 
 `Process.GetCurrentProcess()`で現在のプロセスを取得し、その`PriorityClass`プロパティに`ProcessPriorityClass`列挙型の値をセットするだけ。  
